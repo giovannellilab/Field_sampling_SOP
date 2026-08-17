@@ -100,9 +100,7 @@ It is not a substitute for appropriate medical advice, expedition risk assessmen
 
 ### Protocols and QA/QC tools
 
-Additional protocols, data-validation resources, and QA/QC tools associated with the framework will be maintained here as they are developed and tested.
-
-Where software tools are provided, their version and dependencies should be recorded together with the analytical workflow in which they are used.
+Additional protocols, data-validation resources, and QA/QC tools associated with the framework will be released in a dedicated repository as they are developed and tested.
 
 ## Know your codes
 
@@ -163,10 +161,7 @@ Standardization does not mean pretending every seep is the same. It means docume
 │       └── README.md
 │
 ├── protocols/
-│   └── ...
-│
-└── code/
-    └── QA-QC-tools/
+    └── ...
 ```
 
 The exact directory structure may evolve as additional resources are added.
